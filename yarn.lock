@@ -1524,10 +1524,10 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react-paginate@6.2.1":
-  version "6.2.1"
-  resolved "https://registry.yarnpkg.com/@types/react-paginate/-/react-paginate-6.2.1.tgz#2329088d78010ea49661559c8467a24ecd942784"
-  integrity sha512-+q8k1N0WzbMyOCsIEH/p5D6/KQD8dXYLzfvSvriYn//94icd2sqhAL2rWXkgwGvqHGCSTU9AoHtsWCJxPfquUQ==
+"@types/react-paginate@6.2.2":
+  version "6.2.2"
+  resolved "https://registry.yarnpkg.com/@types/react-paginate/-/react-paginate-6.2.2.tgz#b1455476218a120950c8b44f21d8e343910e7b59"
+  integrity sha512-m10683G91t1atHs7jpK4FLerY5T0oOXfe0B/8IKdDH0+Jm3dUvAkDwYC8DzLOCHq/QPf3XB7FWgfEN8Sh9VpTQ==
   dependencies:
     "@types/react" "*"
 
